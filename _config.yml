@@ -1,6 +1,6 @@
 # Site settings
 title: HY Blog
-SEOTitle:  余昊 的博客 | BY Blog
+SEOTitle:  余昊的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: yuhao120901@gmail.com
 description: "每个胜利背后都有许多尝试"
@@ -93,17 +93,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+    # {
+    #     title: "WY",
+    #     href: "http://zhengwuyang.com"
+    # },{
+    #     title: "简书·BY",
+    #     href: "http://www.jianshu.com/u/e71990ada2fd"
+    # },{
+    #     title: "Apple",
+    #     href: "https://apple.com"
+    # },{
+    #     title: "Apple Developer",
+    #     href: "https://developer.apple.com/"
+    # }
 ]
