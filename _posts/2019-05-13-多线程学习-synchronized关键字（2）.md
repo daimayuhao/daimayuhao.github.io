@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      synchronized关键字（1）
+title:      synchronized关键字（2）
 subtitle:   
-date:       2017-05-13
+date:       2017-05-14
 author:     lessyh
 header-img: img/post-bg-github-cup.jpg
 catalog: true
@@ -213,6 +213,8 @@ public class Test {
 # 7 同步不具有继承性
 如果父类有一个带synchronized关键字的方法，子类继承并重写了这个方法。 
 但是同步不能继承，所以还是需要在子类方法中添加synchronized关键字。
+
+
 
 
 
