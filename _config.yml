@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yuhao120901@gmail.com
 description: "每个胜利背后都有许多尝试"
 keyword: "HY, HY Blog, 余的博客, yuhao, 余昊, Android, Apple, iPhone"
-url: "http://lessonyh.me"          # your host, for absolute URL
+url: "http://lessyh.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/daimaiyuhao/daimaiyuhao.github.io.git" # you code repository
 
